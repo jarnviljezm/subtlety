@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Auto-format by https://ultralytics.com/actions
